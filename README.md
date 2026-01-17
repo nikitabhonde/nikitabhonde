@@ -1,16 +1,40 @@
-## Hi, I’m @nikitabhonde 👋
+## Hi, I'm Nikita 👋
 
-<!--
-**nikitabhonde/nikitabhonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI / ML Engineer (Early Career)  
+🧠 Applied Machine Learning & Data-Driven Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 What I Work On
+- Machine learning algorithms and model evaluation
+- Data preprocessing, feature engineering, and analysis
+- Building ML-driven applications and experiments
+- Learning deployment and monitoring basics for ML systems
+
+---
+
+### 🛠️ Tech Stack
+**Programming:** Python, SQL  
+**AI / ML:** NumPy, Pandas, scikit-learn (learning PyTorch / TensorFlow)  
+**Data:** Data cleaning, exploratory data analysis, validation  
+**Tools:** Git, GitHub  
+**Databases:** MySQL, PostgreSQL  
+
+---
+
+### 💡 Background
+I started my career in QA, where I developed a strong foundation in validation and correctness.  
+I am now focused on transitioning into AI / ML engineering and building reliable, measurable ML solutions.
+
+---
+
+### 💞️ Open to Collaborate On
+- AI / ML learning and experimentation projects
+- Data-driven applications
+- Beginner to intermediate ML systems
+
+---
+
+### 📫 Connect
+- LinkedIn: *add your profile link*  
+- Email: *optional*
