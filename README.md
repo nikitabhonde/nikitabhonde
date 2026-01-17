@@ -1,5 +1,6 @@
 ## Hi, I'm Nikita 👋
 
+## 👀 I’m interested in:
 🤖 AI / ML Engineer (Early Career)  
 🧠 Applied Machine Learning & Data-Driven Systems  
 
@@ -34,7 +35,3 @@ I am now focused on transitioning into AI / ML engineering and building reliable
 - Beginner to intermediate ML systems
 
 ---
-
-### 📫 Connect
-- LinkedIn: *add your profile link*  
-- Email: *optional*
