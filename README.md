@@ -1,7 +1,7 @@
-## Hi, I'm Nikita 👋
+### Hi, I'm Nikita 👋
 ---
 
-## 👀 I’m interested in:
+### 👀 I’m interested in:
 🤖 AI / ML Engineer (Early Career)  
 🧠 Applied Machine Learning & Data-Driven Systems  
 
