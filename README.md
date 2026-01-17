@@ -5,7 +5,7 @@
 
 ---
 
-### 👀 Interests
+### 👀 I’m interested in:
 - Artificial Intelligence & Machine Learning
 - Data-driven problem solving
 - Building practical ML systems
